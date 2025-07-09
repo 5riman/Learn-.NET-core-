@@ -16,12 +16,35 @@ var app = builder.Build();
 //});
 
 
-//app.MapGet("/", () => "Hello World!");
+app.UseRouting();
 
-app.MapControllerRoute(
-    name:"default",
-    pattern:"{controller=Home}/{action=Index}/{id?}"
-    );
-app.MapControllers();
+app.UseEndpoints(endpoints =>
+{
+    endpoints.MapGet("/Home", async (context) =>
+    {
+        await context.Response.WriteAsync("Hello Hyderabad - GET");
 
-app.Run();
+    });
+
+    endpoints.MapPost("/Home", async (context) =>
+    {
+        await context.Response.WriteAsync("Hello Hyderabad - POST");
+    });
+
+});
+
+
+//app.MapControllerRoute(
+//    name:"default",
+//    pattern:"{controller=Home}/{action=Index}/{id?}"
+//    );
+//app.MapControllers();
+
+app.Run((HttpContext context) =>
+{
+    context.Response.ContentType = "text/plain";
+    return context.Response.WriteAsync("Hello from the final middleware!");
+}
+
+);
+
