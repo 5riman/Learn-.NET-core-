@@ -22,3 +22,34 @@ C:\Users\Sriman Ch\source\repos\ASP.NET core (MVC)\ASP.Net_Core_Middleware\obj\D
 C:\Users\Sriman Ch\source\repos\ASP.NET core (MVC)\ASP.Net_Core_Middleware\obj\Debug\net8.0\ASP.Net_Core_Middleware.pdb
 C:\Users\Sriman Ch\source\repos\ASP.NET core (MVC)\ASP.Net_Core_Middleware\obj\Debug\net8.0\ASP.Net_Core_Middleware.genruntimeconfig.cache
 C:\Users\Sriman Ch\source\repos\ASP.NET core (MVC)\ASP.Net_Core_Middleware\obj\Debug\net8.0\ref\ASP.Net_Core_Middleware.dll
+C:\Users\Sriman Ch\source\repos\5riman\Learn-.NET-core-\ASP.Net_Core_Middleware\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Sriman Ch\source\repos\5riman\Learn-.NET-core-\ASP.Net_Core_Middleware\obj\Debug\net8.0\ASP.Net_Core_Middleware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sriman Ch\source\repos\5riman\Learn-.NET-core-\ASP.Net_Core_Middleware\obj\Debug\net8.0\ASP.Net_Core_Middleware.AssemblyInfoInputs.cache
+C:\Users\Sriman Ch\source\repos\5riman\Learn-.NET-core-\ASP.Net_Core_Middleware\obj\Debug\net8.0\ASP.Net_Core_Middleware.AssemblyInfo.cs
+C:\Users\Sriman Ch\source\repos\5riman\Learn-.NET-core-\ASP.Net_Core_Middleware\obj\Debug\net8.0\ASP.Net_Core_Middleware.csproj.CoreCompileInputs.cache
+C:\Users\Sriman Ch\source\repos\5riman\Learn-.NET-core-\ASP.Net_Core_Middleware\obj\Debug\net8.0\ASP.Net_Core_Middleware.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sriman Ch\source\repos\5riman\Learn-.NET-core-\ASP.Net_Core_Middleware\obj\Debug\net8.0\ASP.Net_Core_Middleware.RazorAssemblyInfo.cache
+C:\Users\Sriman Ch\source\repos\5riman\Learn-.NET-core-\ASP.Net_Core_Middleware\obj\Debug\net8.0\ASP.Net_Core_Middleware.RazorAssemblyInfo.cs
+C:\Users\Sriman Ch\source\repos\5riman\Learn-.NET-core-\ASP.Net_Core_Middleware\obj\Debug\net8.0\ASP.Net_Core_Middleware.sourcelink.json
+C:\Users\Sriman Ch\source\repos\5riman\Learn-.NET-core-\ASP.Net_Core_Middleware\obj\Debug\net8.0\ASP.Net_Core_Middleware.dll
+C:\Users\Sriman Ch\source\repos\5riman\Learn-.NET-core-\ASP.Net_Core_Middleware\obj\Debug\net8.0\refint\ASP.Net_Core_Middleware.dll
+C:\Users\Sriman Ch\source\repos\5riman\Learn-.NET-core-\ASP.Net_Core_Middleware\obj\Debug\net8.0\ASP.Net_Core_Middleware.pdb
+C:\Users\Sriman Ch\source\repos\5riman\Learn-.NET-core-\ASP.Net_Core_Middleware\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Sriman Ch\source\repos\5riman\Learn-.NET-core-\ASP.Net_Core_Middleware\bin\Debug\net8.0\appsettings.json
+C:\Users\Sriman Ch\source\repos\5riman\Learn-.NET-core-\ASP.Net_Core_Middleware\bin\Debug\net8.0\ASP.Net_Core_Middleware.staticwebassets.endpoints.json
+C:\Users\Sriman Ch\source\repos\5riman\Learn-.NET-core-\ASP.Net_Core_Middleware\bin\Debug\net8.0\ASP.Net_Core_Middleware.exe
+C:\Users\Sriman Ch\source\repos\5riman\Learn-.NET-core-\ASP.Net_Core_Middleware\bin\Debug\net8.0\ASP.Net_Core_Middleware.deps.json
+C:\Users\Sriman Ch\source\repos\5riman\Learn-.NET-core-\ASP.Net_Core_Middleware\bin\Debug\net8.0\ASP.Net_Core_Middleware.runtimeconfig.json
+C:\Users\Sriman Ch\source\repos\5riman\Learn-.NET-core-\ASP.Net_Core_Middleware\bin\Debug\net8.0\ASP.Net_Core_Middleware.dll
+C:\Users\Sriman Ch\source\repos\5riman\Learn-.NET-core-\ASP.Net_Core_Middleware\bin\Debug\net8.0\ASP.Net_Core_Middleware.pdb
+C:\Users\Sriman Ch\source\repos\5riman\Learn-.NET-core-\ASP.Net_Core_Middleware\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Sriman Ch\source\repos\5riman\Learn-.NET-core-\ASP.Net_Core_Middleware\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Sriman Ch\source\repos\5riman\Learn-.NET-core-\ASP.Net_Core_Middleware\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Sriman Ch\source\repos\5riman\Learn-.NET-core-\ASP.Net_Core_Middleware\obj\Debug\net8.0\scopedcss\bundle\ASP.Net_Core_Middleware.styles.css
+C:\Users\Sriman Ch\source\repos\5riman\Learn-.NET-core-\ASP.Net_Core_Middleware\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Sriman Ch\source\repos\5riman\Learn-.NET-core-\ASP.Net_Core_Middleware\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Sriman Ch\source\repos\5riman\Learn-.NET-core-\ASP.Net_Core_Middleware\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Sriman Ch\source\repos\5riman\Learn-.NET-core-\ASP.Net_Core_Middleware\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Sriman Ch\source\repos\5riman\Learn-.NET-core-\ASP.Net_Core_Middleware\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Sriman Ch\source\repos\5riman\Learn-.NET-core-\ASP.Net_Core_Middleware\obj\Debug\net8.0\ASP.Net_Core_Middleware.genruntimeconfig.cache
+C:\Users\Sriman Ch\source\repos\5riman\Learn-.NET-core-\ASP.Net_Core_Middleware\obj\Debug\net8.0\ref\ASP.Net_Core_Middleware.dll

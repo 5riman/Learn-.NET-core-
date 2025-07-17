@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASP.Net_Core_Middleware")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d9fe4ba93809f0d381d8ea55b1425fe9c0a7c1d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASP.Net_Core_Middleware")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASP.Net_Core_Middleware")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
