@@ -16,6 +16,9 @@ namespace ASP.Net_Core_Middleware.Controllers
             ViewData["key3"] = arr;
             ViewData["key4"] = new List<string> ()
             { "Sriman","30","Hyderabad" };
+             ViewBag.data1 = "Home";
+             ViewBag.data2 = "Sriman";
+            
 
             return View();
         }
